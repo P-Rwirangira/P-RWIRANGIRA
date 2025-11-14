@@ -1,7 +1,7 @@
 # Hello, I'm Patrick RWIRANGIRA 👋
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/x.com/PRwirangira)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rwirangira.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rwpatrick.netlify.app/)
 
 ## 💫 About Me
 I'm a **Software Developer** and  Learner based in Kigali, Rwanda. I love turning challenges into solutions and enjoy every bit of learning that comes with the journey.
@@ -62,4 +62,5 @@ I'm a **Software Developer** and  Learner based in Kigali, Rwanda. I love turnin
 ## 📫 Get in Touch
 
 - Email: rwpatrick001@gmail.com
+- Portfolio: [Check it out !](https://rwpatrick.netlify.app/)
 - Twitter: [@PRwirangira](https://x.com/PRwirangira)
