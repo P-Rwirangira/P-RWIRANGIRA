@@ -1,10 +1,10 @@
 # Hello, I'm Patrick RWIRANGIRA 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/x.com/PRwirangira)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PRwirangira)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rwpatrick.netlify.app/)
 
 ## 💫 About Me
-I'm a **Software Developer** and Learner based in Kigali, Rwanda. I love turning challenges into solutions and enjoy every bit of learning that comes with the journey.
+I'm a **Software Developer** and learner based in Kigali, Rwanda. I love turning challenges into solutions and enjoy every bit of learning that comes with the journey.
 
 ## 🚀 Tech Stack
 
@@ -52,7 +52,6 @@ I'm a **Software Developer** and Learner based in Kigali, Rwanda. I love turning
 ## 🔗 Blockchain & Web3
 
 ### Smart Contracts & DeFi
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
@@ -92,5 +91,5 @@ I'm a **Software Developer** and Learner based in Kigali, Rwanda. I love turning
 ## 📫 Get in Touch
 
 - Email: rwpatrick001@gmail.com
-- Portfolio: [Check it out !](https://rwpatrick.netlify.app/)
-- Twitter: [@PRwirangira](https://x.com/PRwirangira)
+- Portfolio: [Check it out!](https://rwpatrick.netlify.app/)
+- X: [@PRwirangira](https://x.com/PRwirangira)
